@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    margin: auto;
+}
+
+button {
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: transparent;
+    padding: 1.5em 3.5em;
+    font-size: 1.2em;
+}
+
+button:hover {
+    color: #fff;
+    background-color: #000;
+}
+
+h1 span{
+    color: maroon;
+}
